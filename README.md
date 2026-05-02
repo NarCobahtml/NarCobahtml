@@ -1,149 +1,171 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nararya+Wirazahran+%F0%9F%91%8B;Web+%26+Mobile+Developer;CTF+Enthusiast;Student+from+East+Java%2C+Indonesia)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Nararya%20Wirazahran&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web%20%7C%20Mobile%20Developer%20%7C%20CTF%20Enthusiast&descAlignY=58&descColor=a0c4ff&animation=twinkling" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NarCobahtml&style=flat-square&color=58A6FF" alt="Profile views" />
-</p>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+things+for+the+web+%26+mobile;%F0%9F%94%90+Breaking+things+in+CTF+competitions;%F0%9F%8C%8F+Student+from+East+Java%2C+Indonesia;%F0%9F%8E%B5+Preserving+Indonesian+culture+through+tech)](https://git.io/typing-svg)
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/NarCobahtml?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=1f6feb)](https://github.com/NarCobahtml)
+[![Profile Views](https://komarev.com/ghpvc/?username=NarCobahtml&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/NarCobahtml)
+[![GitHub Stars](https://img.shields.io/github/stars/NarCobahtml?style=for-the-badge&logo=github&logoColor=white&color=1f6feb&label=TOTAL+STARS)](https://github.com/NarCobahtml)
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-I'm a student at **Malang State Vocational High School 4**, East Java, Indonesia — building skills across web development, mobile development, and cybersecurity through hands-on projects and CTF competitions.
+## 👨‍💻 About Me
 
-- 🏫 Student at **SMKN 4 Malang**, East Java
-- 🌐 Building web experiences with **HTML, CSS & JavaScript**
-- 📱 Developing mobile apps with **Flutter & Dart**
-- 🔐 Participating in **CTF competitions** (picoCTF, RedlimitCTF)
-- 🛠️ Exploring both **Web** and **Mobile** sides of application development
-
----
-
-## Tech Stack
-
-<details>
-<summary><b>🌐 Frontend & Web</b></summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>📱 Mobile</b></summary>
-<br>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🔧 Systems & Other</b></summary>
-<br>
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</details>
-
----
-
-## GitHub Stats
+</div>
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=NarCobahtml&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarCobahtml&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+</div>
+
+```yaml
+name       : Nararya Wirazahran Prasetyo
+alias      : NarCobahtml
+location   : Malang, East Java 🇮🇩
+school     : SMKN 4 Malang (Vocational High School)
+focus      : Web Development · Mobile Dev · Cybersecurity
+interests  : CTF Competitions · Indonesian Culture · Open Source
+currently  : Building & Learning every day 🔥
+```
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<br/>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark&perline=4" />
+
+<br/><br/>
+
+### 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark&perline=4" />
+
+<br/><br/>
+
+### 🔧 Systems & Tools
+
+<img src="https://skillicons.dev/icons?i=cpp,cmake,git,github,vscode,linux&theme=dark&perline=6" />
+
+<br/><br/>
+
+### 🔐 Cybersecurity
+
+![CTF](https://img.shields.io/badge/CTF_Player-HackTheBox_Style-1f6feb?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Web Exploitation](https://img.shields.io/badge/Web_Exploitation-FF4B4B?style=for-the-badge&logo=owasp&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-0D1117?style=for-the-badge&logo=gnuprivacyguard&logoColor=58a6ff)
+![Forensics](https://img.shields.io/badge/Forensics-1f6feb?style=for-the-badge&logo=elastic&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-58A6FF?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 </div>
 
 ---
 
-## Featured Projects
+<div align="center">
 
-### 🌏 [SwaraNusa Web Project](https://github.com/NarCobahtml/SwaraNusa-Web-Project)
+## 📊 GitHub Statistics
 
-A multi-page web application dedicated to Indonesian traditional music culture. Built with pure HTML, CSS, and JavaScript — featuring a landing page, user dashboard, learning content, exploration pages, and authentication flows.
+<br/>
 
-[![HTML](https://img.shields.io/badge/HTML-42%25-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/NarCobahtml/SwaraNusa-Web-Project)
-[![CSS](https://img.shields.io/badge/CSS-54%25-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/NarCobahtml/SwaraNusa-Web-Project)
-[![JS](https://img.shields.io/badge/JS-3%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/NarCobahtml/SwaraNusa-Web-Project)
-[![Live](https://img.shields.io/badge/Live-Demo-58A6FF?style=flat-square&logo=github-pages&logoColor=white)](https://narcobahtml.github.io/SwaraNusa-Web-Project/)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NarCobahtml&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarCobahtml&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
----
+<br/><br/>
 
-### 📱 [Flutter Mobile Project — SwaraNusa Quiz](https://github.com/NarCobahtml/FLutter-Mobile-Project)
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=NarCobahtml&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6b35&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=1f6feb&sideLabels=c9d1d9&dates=6e7681" />
 
-A Flutter-based mobile quiz app built for a school practical exam. Teaches Indonesian traditional musical instruments through three modes: sound guessing, image guessing, and history learning.
+<br/><br/>
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://github.com/NarCobahtml/FLutter-Mobile-Project)
-[![Dart](https://img.shields.io/badge/Dart-87%25-0175C2?style=flat-square&logo=dart&logoColor=white)](https://github.com/NarCobahtml/FLutter-Mobile-Project)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NarCobahtml&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" width="90%" />
 
----
-
-### 🏴 [CTF Writeups](https://github.com/NarCobahtml/CTF-Writeups)
-
-A curated collection of Capture The Flag challenge writeups covering web exploitation, cryptography, reverse engineering, forensics, and more. Includes solutions from picoCTF and RedlimitCTF.
-
-[![CTF](https://img.shields.io/badge/CTF-Writeups-58A6FF?style=flat-square&logo=hackthebox&logoColor=white)](https://github.com/NarCobahtml/CTF-Writeups)
-[![Markdown](https://img.shields.io/badge/Format-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://github.com/NarCobahtml/CTF-Writeups)
-
----
-
-### 🗂️ [Modul DDK](https://github.com/NarCobahtml/Modul-DDK)
-
-A structured learning module repository covering both Web and Mobile development tracks — written in C++, Dart, HTML, and PHP. Used as educational reference material.
-
-[![C++](https://img.shields.io/badge/C++-26%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/NarCobahtml/Modul-DDK)
-[![Dart](https://img.shields.io/badge/Dart-17%25-0175C2?style=flat-square&logo=dart&logoColor=white)](https://github.com/NarCobahtml/Modul-DDK)
-[![PHP](https://img.shields.io/badge/PHP-14%25-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/NarCobahtml/Modul-DDK)
-
----
-
-## Current Focus
-
-<details>
-<summary><b>🎯 What I'm working on</b></summary>
-<br>
-
-- Expanding CTF skills across web exploitation, cryptography, and forensics categories
-- Deepening Flutter & Dart for cross-platform mobile development
-- Building more complete web projects using HTML, CSS, and JavaScript
-- Practicing problem-solving through competitive programming and CTF challenges
-
-</details>
-
----
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/NarCobahtml" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
 <div align="center">
-  <sub>📍 Malang, East Java, Indonesia</sub>
+
+## 🚀 Featured Projects
+
+<br/>
+
+| Project | Description | Tech | Link |
+|:---:|:---:|:---:|:---:|
+| 🌏 **SwaraNusa Web** | Multi-page web platform for Indonesian traditional music — with dashboard, learning module, exploration & auth | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/NarCobahtml/SwaraNusa-Web-Project) [![Live](https://img.shields.io/badge/-Live-58a6ff?style=flat-square&logo=vercel)](https://narcobahtml.github.io/SwaraNusa-Web-Project/) |
+| 📱 **SwaraNusa Quiz** | Flutter mobile quiz app — guess Indonesian instruments by sound, image, or history | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/NarCobahtml/FLutter-Mobile-Project) |
+| 🏴 **CTF Writeups** | Documented solutions from picoCTF & RedlimitCTF — web, crypto, forensics, reverse engineering | ![MD](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/NarCobahtml/CTF-Writeups) |
+| 🗂️ **Modul DDK** | Structured learning module for Web & Mobile dev tracks — covers C++, Dart, HTML, PHP | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/NarCobahtml/Modul-DDK) |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Current Focus
+
+</div>
+
+<details>
+<summary align="center"><b>🔍 Click to see what I'm working on</b></summary>
+
+<br/>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                    🔥 ACTIVE GOALS                      │
+├─────────────────────────────────────────────────────────┤
+│  🏴  Sharpening CTF skills — web, crypto, forensics     │
+│  📱  Mastering Flutter for cross-platform mobile apps   │
+│  🌐  Building polished web UIs with vanilla JS          │
+│  📖  Improving documentation & writeup quality          │
+│  🤝  Exploring collaborative projects & open source     │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+</details>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarCobahtml)
+
+<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" />
+<em><b>I love connecting with fellow developers!</b> Feel free to reach out anytime. 😊</em>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
+
 </div>
