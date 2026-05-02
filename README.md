@@ -177,9 +177,9 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/-@narcobahtml-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-Nararya%20Wirazahran-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/)&nbsp;
-[![Gmail](https://img.shields.io/badge/-your@email.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your@email.com)&nbsp;
+[![Instagram](https://img.shields.io/badge/-@keselek_pentol-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/keselek_pentol/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-Nararya%20Wirazahran-0077B5?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/nararya-wirazahran-prasetyo-658929393/))&nbsp;
+[![Gmail](https://img.shields.io/badge/-nararyawirazahranprasetyo@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:nararyawirazahranprasetyo@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/-NarCobahtml-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/NarCobahtml)
 
 </div>
