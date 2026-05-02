@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nararya%20Wirazahran%20Prasetyo&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%E2%80%A2%20Mobile%20Dev%20%E2%80%A2%20CTF%20Enthusiast&descAlignY=60&descColor=c9d1d9&animation=twinkling" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+for+the+Web+%26+Mobile;%F0%9F%94%90+CTF+Player+%7C+picoCTF+%26+RedlimitCTF;%F0%9F%8E%B5+Preserving+Indonesian+Culture+Through+Code;%F0%9F%8C%8F+Student+%40+SMKN+4+Malang%2C+East+Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+for+the+Web+%26+Mobile;CTF+Player+%7C+Web%2C+Crypto%2C+Forensics;Preserving+Indonesian+Culture+Through+Code;Student+%40+SMKN+4+Malang%2C+East+Java+%F0%9F%87%AE%F0%9F%87%A9)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,12 +18,12 @@
 
 <img align="right" alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300px"/>
 
-&nbsp;💡 &nbsp;Suka eksplorasi teknologi baru dan membangun solusi yang nyata.\
-&nbsp;🎓 &nbsp;Siswa **SMKN 4 Malang**, Jurusan Rekayasa Perangkat Lunak, East Java 🇮🇩\
-&nbsp;🌱 &nbsp;Sedang mendalami **Flutter**, **Web Development**, dan **Cybersecurity**.\
-&nbsp;🔐 &nbsp;Aktif ikut **CTF competitions** — picoCTF & RedlimitCTF.\
-&nbsp;🎵 &nbsp;Builder **SwaraNusa** — platform digital pelestarian musik tradisional Indonesia.\
-&nbsp;✍🏻 &nbsp;Suka nulis writeup dan dokumentasi yang rapi.\
+&nbsp;💡 &nbsp;I enjoy exploring new technologies and building real-world solutions.\
+&nbsp;🎓 &nbsp;Student at **SMKN 4 Malang**, Software Engineering, East Java 🇮🇩\
+&nbsp;🌱 &nbsp;Currently deepening my skills in **Flutter**, **Web Development**, and **Cybersecurity**.\
+&nbsp;🔐 &nbsp;Active **CTF competitor** — Web Exploitation, Cryptography & Forensics.\
+&nbsp;🎵 &nbsp;Building **SwaraNusa** — a digital platform to preserve Indonesian traditional music.\
+&nbsp;✍🏻 &nbsp;I love writing clean writeups and well-structured documentation.\
 &nbsp;💬 &nbsp;Feel free to ask me about **HTML, CSS, JS, Flutter, or CTF**!\
 &nbsp;📍 &nbsp;Malang, East Java, Indonesia.
 
@@ -44,8 +44,7 @@
 
 ### 📱 &nbsp;Frameworks & Platforms
 
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=54C5F8)&nbsp;
-![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat&logo=cmake&logoColor=064F8C)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=54C5F8)
 
 ### ⚙️ &nbsp;Developer Tools
 
@@ -60,19 +59,15 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux&logoColor=557C94)&nbsp;
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark&logoColor=1679A7)&nbsp;
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-05122A?style=flat&logo=portswigger&logoColor=FF6633)&nbsp;
-![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-05122A?style=flat&logo=ida&logoColor=gray)&nbsp;
-![GDB](https://img.shields.io/badge/-GDB-05122A?style=flat&logo=gnu&logoColor=A42E2B)&nbsp;
-![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap&logoColor=white)&nbsp;
-![CyberChef](https://img.shields.io/badge/-CyberChef-05122A?style=flat&logo=gitbook&logoColor=3884FF)&nbsp;
-![Ghidra](https://img.shields.io/badge/-Ghidra-05122A?style=flat&logo=ghidra&logoColor=red)
+![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-05122A?style=flat&logo=ida&logoColor=lightgrey)&nbsp;
+![CyberChef](https://img.shields.io/badge/-CyberChef-05122A?style=flat&logo=gitbook&logoColor=3884FF)
 
-### 🎯 &nbsp;CTF Categories
+### 🎯 &nbsp;CTF Skills
 
 ![Web Exploitation](https://img.shields.io/badge/-Web%20Exploitation-05122A?style=flat&logo=owasp&logoColor=crimson)&nbsp;
 ![Cryptography](https://img.shields.io/badge/-Cryptography-05122A?style=flat&logo=gnuprivacyguard&logoColor=58a6ff)&nbsp;
 ![Forensics](https://img.shields.io/badge/-Forensics-05122A?style=flat&logo=elastic&logoColor=00bfb3)&nbsp;
-![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-05122A?style=flat&logo=assemblyscript&logoColor=aaa)&nbsp;
-![Binary Exploitation](https://img.shields.io/badge/-Binary%20Exploitation-05122A?style=flat&logo=buffer&logoColor=orange)&nbsp;
+![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-05122A?style=flat&logo=assemblyscript&logoColor=aaaaaa)&nbsp;
 ![OSINT](https://img.shields.io/badge/-OSINT-05122A?style=flat&logo=googlelens&logoColor=4285F4)
 
 ---
@@ -104,23 +99,52 @@
 
 ## 🚀 &nbsp;Featured Projects
 
-<div align="center">
+<details open>
+<summary><b>🌏 SwaraNusa Web Project</b> &nbsp;—&nbsp; <code>HTML</code> &nbsp;<code>CSS</code> &nbsp;<code>JavaScript</code></summary>
+<br/>
 
-<a href="https://github.com/NarCobahtml/SwaraNusa-Web-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NarCobahtml&repo=SwaraNusa-Web-Project&theme=algolia&hide_border=true" />
-</a>&nbsp;
-<a href="https://github.com/NarCobahtml/FLutter-Mobile-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NarCobahtml&repo=FLutter-Mobile-Project&theme=algolia&hide_border=true" />
-</a>
+> A multi-page web platform dedicated to Indonesian traditional music — featuring a landing page, user dashboard, learning content, instrument exploration, and a full authentication flow.
 
-<a href="https://github.com/NarCobahtml/CTF-Writeups">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NarCobahtml&repo=CTF-Writeups&theme=algolia&hide_border=true" />
-</a>&nbsp;
-<a href="https://github.com/NarCobahtml/Modul-DDK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NarCobahtml&repo=Modul-DDK&theme=algolia&hide_border=true" />
-</a>
+[![View Repo](https://img.shields.io/badge/View%20Repository-05122A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarCobahtml/SwaraNusa-Web-Project)&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white)](https://narcobahtml.github.io/SwaraNusa-Web-Project/)
 
-</div>
+</details>
+
+---
+
+<details open>
+<summary><b>📱 SwaraNusa Quiz — Flutter Mobile App</b> &nbsp;—&nbsp; <code>Flutter</code> &nbsp;<code>Dart</code></summary>
+<br/>
+
+> A cross-platform mobile quiz app built for a school practical exam. Users can identify Indonesian traditional instruments through three interactive game modes: sound guessing, image guessing, and history learning.
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-05122A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarCobahtml/FLutter-Mobile-Project)
+
+</details>
+
+---
+
+<details open>
+<summary><b>🏴 CTF Writeups</b> &nbsp;—&nbsp; <code>Markdown</code></summary>
+<br/>
+
+> A curated collection of Capture The Flag challenge writeups. Covers web exploitation, cryptography, reverse engineering, forensics, and miscellaneous challenges — with clear step-by-step methodology for each solution.
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-05122A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarCobahtml/CTF-Writeups)
+
+</details>
+
+---
+
+<details open>
+<summary><b>🗂️ Modul DDK</b> &nbsp;—&nbsp; <code>C++</code> &nbsp;<code>Dart</code> &nbsp;<code>HTML</code> &nbsp;<code>PHP</code></summary>
+<br/>
+
+> A structured learning module repository covering both Web and Mobile development tracks, used as educational reference material across multiple tech stacks.
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-05122A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarCobahtml/Modul-DDK)
+
+</details>
 
 ---
 
@@ -128,12 +152,12 @@
 
 <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="280px"/>
 
-&nbsp;🏴 &nbsp;Memperdalam skill **CTF** — web exploitation, crypto & forensics\
-&nbsp;📱 &nbsp;Mengembangkan fitur baru di aplikasi **Flutter** mobile\
-&nbsp;🌐 &nbsp;Membangun web UI yang lebih polished dengan **vanilla JS**\
-&nbsp;📖 &nbsp;Menulis **writeup CTF** yang lebih detail dan terstruktur\
-&nbsp;🔍 &nbsp;Exploring **networking** & **Linux fundamentals** untuk security\
-&nbsp;🤝 &nbsp;Mencari peluang **kolaborasi** & kontribusi open source
+&nbsp;🏴 &nbsp;Sharpening **CTF** skills — web exploitation, crypto & forensics\
+&nbsp;📱 &nbsp;Developing new features for the **Flutter** mobile app\
+&nbsp;🌐 &nbsp;Building polished web UIs with **vanilla JavaScript**\
+&nbsp;📖 &nbsp;Writing more detailed and structured **CTF writeups**\
+&nbsp;🔍 &nbsp;Exploring **networking** & **Linux fundamentals** for security\
+&nbsp;🤝 &nbsp;Looking for **collaboration** opportunities & open source contributions
 
 <br clear="right"/>
 
@@ -161,9 +185,6 @@
 </div>
 
 <div align="center">
-
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-
 </div>
