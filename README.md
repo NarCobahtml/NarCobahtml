@@ -22,25 +22,30 @@
 
 ## 👨‍💻 About Me
 
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+
+<br/><br/>
+
+Seorang pelajar dari **SMKN 4 Malang**, East Java 🇮🇩 yang passionate di dunia pengembangan web, mobile, dan keamanan siber.<br/>
+Saya percaya teknologi bisa jadi jembatan untuk melestarikan budaya — terbukti lewat proyek **SwaraNusa** 🎵
+
+<br/>
+
+![Location](https://img.shields.io/badge/📍_Location-Malang,_East_Java-1f6feb?style=for-the-badge&logoColor=white)
+![School](https://img.shields.io/badge/🏫_School-SMKN_4_Malang-0d1117?style=for-the-badge&logoColor=white)
+![Status](https://img.shields.io/badge/⚡_Status-Actively_Building-58a6ff?style=for-the-badge&logoColor=white)
+
+<br/>
+
+![Web Dev](https://img.shields.io/badge/🌐_Web-Development-1f6feb?style=flat-square)
+![Mobile Dev](https://img.shields.io/badge/📱_Mobile-Development-1f6feb?style=flat-square)
+![CTF](https://img.shields.io/badge/🔐_CTF-Enthusiast-1f6feb?style=flat-square)
+![Culture](https://img.shields.io/badge/🎵_Indonesian-Culture_%26_Tech-1f6feb?style=flat-square)
+![Open Source](https://img.shields.io/badge/🤝_Open-Source-1f6feb?style=flat-square)
+
 </div>
-
-<div align="center">
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-</div>
-
-```yaml
-name       : Nararya Wirazahran Prasetyo
-alias      : NarCobahtml
-location   : Malang, East Java 🇮🇩
-school     : SMKN 4 Malang (Vocational High School)
-focus      : Web Development · Mobile Dev · Cybersecurity
-interests  : CTF Competitions · Indonesian Culture · Open Source
-currently  : Building & Learning every day 🔥
-```
-
-<br clear="right"/>
 
 ---
 
@@ -122,29 +127,30 @@ currently  : Building & Learning every day 🔥
 
 ## 🎯 Current Focus
 
-</div>
+<br/>
+
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="380" />
+
+<br/><br/>
 
 <details>
-<summary align="center"><b>🔍 Click to see what I'm working on</b></summary>
+<summary><b>🔥 Expand — What I'm grinding on right now</b></summary>
 
 <br/>
 
-<div align="center">
+![CTF](https://img.shields.io/badge/🏴_CTF-Sharpening_web,_crypto_&_forensics_skills-1f6feb?style=for-the-badge)
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                    🔥 ACTIVE GOALS                      │
-├─────────────────────────────────────────────────────────┤
-│  🏴  Sharpening CTF skills — web, crypto, forensics     │
-│  📱  Mastering Flutter for cross-platform mobile apps   │
-│  🌐  Building polished web UIs with vanilla JS          │
-│  📖  Improving documentation & writeup quality          │
-│  🤝  Exploring collaborative projects & open source     │
-└─────────────────────────────────────────────────────────┘
-```
+![Flutter](https://img.shields.io/badge/📱_Flutter-Building_cross--platform_mobile_apps-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+![WebDev](https://img.shields.io/badge/🌐_Web_Dev-Polishing_UIs_with_HTML,_CSS_&_JS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![Docs](https://img.shields.io/badge/📖_Writeups-Improving_CTF_documentation_quality-58a6ff?style=for-the-badge)
+
+![OpenSource](https://img.shields.io/badge/🤝_Open_Source-Exploring_collaboration_&_contributions-238636?style=for-the-badge&logo=github&logoColor=white)
+
+</details>
 
 </div>
-</details>
 
 ---
 
