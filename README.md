@@ -1,177 +1,176 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Nararya%20Wirazahran%20Prasetyo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web%20%7C%20Mobile%20Developer%20%7C%20CTF%20Enthusiast&descAlignY=58&descColor=a0c4ff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nararya%20Wirazahran%20Prasetyo&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%E2%80%A2%20Mobile%20Dev%20%E2%80%A2%20CTF%20Enthusiast&descAlignY=60&descColor=c9d1d9&animation=twinkling" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+things+for+the+web+%26+mobile;%F0%9F%94%90+Breaking+things+in+CTF+competitions;%F0%9F%8C%8F+Student+from+East+Java%2C+Indonesia;%F0%9F%8E%B5+Preserving+Indonesian+culture+through+tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+for+the+Web+%26+Mobile;%F0%9F%94%90+CTF+Player+%7C+picoCTF+%26+RedlimitCTF;%F0%9F%8E%B5+Preserving+Indonesian+Culture+Through+Code;%F0%9F%8C%8F+Student+%40+SMKN+4+Malang%2C+East+Java)](https://git.io/typing-svg)
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/NarCobahtml?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=1f6feb)](https://github.com/NarCobahtml)
-[![Profile Views](https://komarev.com/ghpvc/?username=NarCobahtml&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/NarCobahtml)
-[![GitHub Stars](https://img.shields.io/github/stars/NarCobahtml?style=for-the-badge&logo=github&logoColor=white&color=1f6feb&label=TOTAL+STARS)](https://github.com/NarCobahtml)
-
-</div>
-
----
-
-<div align="center">
-
-## 👨‍💻 About Me
-
-<br/>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
-
-<br/><br/>
-
-Seorang pelajar dari **SMKN 4 Malang**, East Java 🇮🇩 yang passionate di dunia pengembangan web, mobile, dan keamanan siber.<br/>
-Saya percaya teknologi bisa jadi jembatan untuk melestarikan budaya — terbukti lewat proyek **SwaraNusa** 🎵
-
-<br/>
-
-![Location](https://img.shields.io/badge/📍_Location-Malang,_East_Java-1f6feb?style=for-the-badge&logoColor=white)
-![School](https://img.shields.io/badge/🏫_School-SMKN_4_Malang-0d1117?style=for-the-badge&logoColor=white)
-![Status](https://img.shields.io/badge/⚡_Status-Actively_Building-58a6ff?style=for-the-badge&logoColor=white)
-
-<br/>
-
-![Web Dev](https://img.shields.io/badge/🌐_Web-Development-1f6feb?style=flat-square)
-![Mobile Dev](https://img.shields.io/badge/📱_Mobile-Development-1f6feb?style=flat-square)
-![CTF](https://img.shields.io/badge/🔐_CTF-Enthusiast-1f6feb?style=flat-square)
-![Culture](https://img.shields.io/badge/🎵_Indonesian-Culture_%26_Tech-1f6feb?style=flat-square)
-![Open Source](https://img.shields.io/badge/🤝_Open-Source-1f6feb?style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=NarCobahtml&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/NarCobahtml)
+[![GitHub followers](https://img.shields.io/github/followers/NarCobahtml?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=0e75b6)](https://github.com/NarCobahtml?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/NarCobahtml?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=0e75b6)](https://github.com/NarCobahtml)
 
 </div>
 
 ---
 
-<div align="center">
+## 👨🏻‍💻 &nbsp;About Me
 
-## 🛠️ Tech Stack
+<img align="right" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="320px"/>
 
-<br/>
+&nbsp;💡 &nbsp;Saya suka eksplorasi teknologi baru dan membangun solusi yang nyata.\
+&nbsp;🎓 &nbsp;Siswa di **SMKN 4 Malang**, Jurusan Rekayasa Perangkat Lunak, East Java 🇮🇩\
+&nbsp;🌱 &nbsp;Sedang mendalami **Flutter**, **Web Dev**, dan **Cybersecurity**.\
+&nbsp;🔐 &nbsp;Aktif mengikuti **CTF competitions** — picoCTF & RedlimitCTF.\
+&nbsp;🎵 &nbsp;Membangun **SwaraNusa** — platform digital untuk melestarikan musik tradisional Indonesia.\
+&nbsp;✍🏻 &nbsp;Suka nulis writeup dan dokumentasi yang rapi di GitHub.\
+&nbsp;💬 &nbsp;Tanya apa saja tentang **HTML, CSS, JS, Flutter, atau CTF** — saya senang diskusi!\
+&nbsp;📍 &nbsp;Malang, East Java, Indonesia.
 
-### 🌐 Web Development
+<br clear="right"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark&perline=4" />
+---
 
-<br/><br/>
+## 🛠 &nbsp;Tech Stack
 
-### 📱 Mobile Development
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=8993be)
 
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark&perline=4" />
-
-<br/><br/>
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=54C5F8)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=00B4AB)
 
 ### 🔧 Systems & Tools
-
-<img src="https://skillicons.dev/icons?i=cpp,cmake,git,github,vscode,linux&theme=dark&perline=6" />
-
-<br/><br/>
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat&logo=cmake&logoColor=064F8C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)
 
 ### 🔐 Cybersecurity
+![Web Exploitation](https://img.shields.io/badge/-Web%20Exploitation-05122A?style=flat&logo=owasp&logoColor=crimson)&nbsp;
+![Cryptography](https://img.shields.io/badge/-Cryptography-05122A?style=flat&logo=gnuprivacyguard&logoColor=58a6ff)&nbsp;
+![Forensics](https://img.shields.io/badge/-Forensics-05122A?style=flat&logo=elastic&logoColor=00bfb3)&nbsp;
+![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-05122A?style=flat&logo=assemblyscript&logoColor=gray)&nbsp;
+![picoCTF](https://img.shields.io/badge/-picoCTF-05122A?style=flat&logo=hackthebox&logoColor=9FEF00)
 
-![CTF](https://img.shields.io/badge/CTF_Player-HackTheBox_Style-1f6feb?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Web Exploitation](https://img.shields.io/badge/Web_Exploitation-FF4B4B?style=for-the-badge&logo=owasp&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-0D1117?style=for-the-badge&logo=gnuprivacyguard&logoColor=58a6ff)
-![Forensics](https://img.shields.io/badge/Forensics-1f6feb?style=for-the-badge&logo=elastic&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-58A6FF?style=for-the-badge&logo=assemblyscript&logoColor=white)
+---
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/NarCobahtml">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NarCobahtml&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NarCobahtml&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/NarCobahtml">
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=NarCobahtml&theme=algolia&hide_border=true"/>
+</a>
+
+<br/><br/>
+
+### 🏆 GitHub Trophies
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=NarCobahtml&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+</a>
+
+<br/><br/>
+
+### 📈 Contribution Graph
+
+<a href="https://github.com/NarCobahtml">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NarCobahtml&bg_color=050F2C&color=58A6FF&line=1f6feb&point=58A6FF&area=true&area_color=1f3a70&hide_border=true" width="92%"/>
+</a>
 
 </div>
 
 ---
 
+## 🚀 &nbsp;Featured Projects
+
 <div align="center">
 
-## 📊 GitHub Statistics
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NarCobahtml&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarCobahtml&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=NarCobahtml&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6b35&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=1f6feb&sideLabels=c9d1d9&dates=6e7681" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NarCobahtml&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" width="90%" />
+<a href="https://github.com/NarCobahtml/SwaraNusa-Web-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NarCobahtml&repo=SwaraNusa-Web-Project&theme=algolia&hide_border=true" />
+</a>
+<a href="https://github.com/NarCobahtml/FLutter-Mobile-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NarCobahtml&repo=FLutter-Mobile-Project&theme=algolia&hide_border=true" />
+</a>
+<a href="https://github.com/NarCobahtml/CTF-Writeups">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NarCobahtml&repo=CTF-Writeups&theme=algolia&hide_border=true" />
+</a>
+<a href="https://github.com/NarCobahtml/Modul-DDK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NarCobahtml&repo=Modul-DDK&theme=algolia&hide_border=true" />
+</a>
 
 </div>
 
 ---
 
+## 🎯 &nbsp;What I'm Currently Working On
+
+<img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300px"/>
+
+🏴 &nbsp;Memperdalam skill **CTF** — web exploitation, crypto & forensics\
+📱 &nbsp;Mengembangkan fitur baru di **Flutter mobile app**\
+🌐 &nbsp;Membangun web UI yang lebih polished dengan **vanilla JS**\
+📖 &nbsp;Menulis writeup CTF yang lebih detail dan terstruktur\
+🔍 &nbsp;Exploring **networking** dan **Linux fundamentals** untuk security\
+🤝 &nbsp;Mencari peluang **kolaborasi** dan kontribusi open source
+
+<br clear="right"/>
+
+---
+
+## 🐍 &nbsp;Contribution Snake
+
 <div align="center">
 
-## 🚀 Featured Projects
-
-<br/>
-
-| Project | Description | Tech | Link |
-|:---:|:---:|:---:|:---:|
-| 🌏 **SwaraNusa Web** | Multi-page web platform for Indonesian traditional music — with dashboard, learning module, exploration & auth | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/NarCobahtml/SwaraNusa-Web-Project) [![Live](https://img.shields.io/badge/-Live-58a6ff?style=flat-square&logo=vercel)](https://narcobahtml.github.io/SwaraNusa-Web-Project/) |
-| 📱 **SwaraNusa Quiz** | Flutter mobile quiz app — guess Indonesian instruments by sound, image, or history | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/NarCobahtml/FLutter-Mobile-Project) |
-| 🏴 **CTF Writeups** | Documented solutions from picoCTF & RedlimitCTF — web, crypto, forensics, reverse engineering | ![MD](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/NarCobahtml/CTF-Writeups) |
-| 🗂️ **Modul DDK** | Structured learning module for Web & Mobile dev tracks — covers C++, Dart, HTML, PHP | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/NarCobahtml/Modul-DDK) |
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="92%" />
 
 </div>
 
 ---
 
+## 💬 &nbsp;Random Dev Quote
+
 <div align="center">
 
-## 🎯 Current Focus
-
-<br/>
-
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="380" />
-
-<br/><br/>
-
-<details>
-<summary><b>🔥 Expand — What I'm grinding on right now</b></summary>
-
-<br/>
-
-![CTF](https://img.shields.io/badge/🏴_CTF-Sharpening_web,_crypto_&_forensics_skills-1f6feb?style=for-the-badge)
-
-![Flutter](https://img.shields.io/badge/📱_Flutter-Building_cross--platform_mobile_apps-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-![WebDev](https://img.shields.io/badge/🌐_Web_Dev-Polishing_UIs_with_HTML,_CSS_&_JS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![Docs](https://img.shields.io/badge/📖_Writeups-Improving_CTF_documentation_quality-58a6ff?style=for-the-badge)
-
-![OpenSource](https://img.shields.io/badge/🤝_Open_Source-Exploring_collaboration_&_contributions-238636?style=for-the-badge&logo=github&logoColor=white)
-
-</details>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
 
+## 🤝🏻 &nbsp;Connect With Me
+
 <div align="center">
 
-## 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/-@narcobahtml-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/-Nararya%20Wirazahran-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/)
+[![Gmail](https://img.shields.io/badge/-your@email.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/-NarCobahtml-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/NarCobahtml)
+
+</div>
+
+<div align="center">
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarCobahtml)
-
-<br/>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" />
-<em><b>I love connecting with fellow developers!</b> Feel free to reach out anytime. 😊</em>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
