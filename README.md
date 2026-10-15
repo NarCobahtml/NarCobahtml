@@ -4,11 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+for+the+Web+%26+Mobile;CTF+Player+%7C+Web%2C+Crypto%2C+Forensics;Preserving+Indonesian+Culture+Through+Code;Student+%40+SMKN+4+Malang%2C+East+Java+%F0%9F%87%AE%F0%9F%87%A9)](https://git.io/typing-svg)
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=NarCobahtml&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/NarCobahtml)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/NarCobahtml?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=0e75b6)](https://github.com/NarCobahtml?tab=followers)&nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/NarCobahtml?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=0e75b6)](https://github.com/NarCobahtml)
 
 </div>
 
